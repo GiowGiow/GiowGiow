@@ -54,7 +54,7 @@
 
 ##
 
-<h3>Projects I worked on<h3>
+<h3>Projects I worked on</h3>
 
 <p>Developed <a href="https://malimali.com.br">MaliMali</a> website</p>
 
