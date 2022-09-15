@@ -56,11 +56,11 @@
 
 <h3>Projects I worked on<h3>
 
-<p>Developed <a href="https://malimali.com.br">MaliMali</a> website<p>
+<p>Developed <a href="https://malimali.com.br">MaliMali</a> website</p>
 
-<p>In my <a href="https://github.com/GiowGiow/Quantificando-a-Disrupcao-em-Redes-de-Similaridade-Musicais">Undergraduate Thesis</a> I analyzed the 20th century music through a data-driven approach to understand what artists were disruptive in their respective genres<p>
+<p>In my <a href="https://github.com/GiowGiow/Quantificando-a-Disrupcao-em-Redes-de-Similaridade-Musicais">Undergraduate Thesis</a> I analyzed the 20th century music through a data-driven approach to understand what artists were disruptive in their respective genres</p>
 
-And multiple other projects that you can check on my GitHub
+<p>And multiple other projects that you can check on my GitHub</p>
 
 ##
 
