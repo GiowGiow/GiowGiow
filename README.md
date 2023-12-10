@@ -53,12 +53,3 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ##
-
-<h3>Where to find me</h3>
-
-<div>
-    <a href="https://www.linkedin.com/in/giovanni-f-martinelli" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            targer="_blank">
-    </a>
-</div>
